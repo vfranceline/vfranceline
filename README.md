@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vfranceline" alt="vfranceline" /></p>
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou a Vitória </h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Conheça mais sobre Vitória! </h1>
 <p align = "justify"> Graduanda do primeiro semestre de SI, procurando uma área de interesse.</p>
 
 
