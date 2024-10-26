@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Conheça mais sobre Vitória! </h1>
-<p align = "justify"> Graduanda do primeiro semestre de SI, procurando uma área de interesse.</p>
+<p align = "justify"> Graduanda do segundo semestre de SI, procurando uma área de interesse.</p>
 
 
 No momento estou aprendendo **C e Python**
