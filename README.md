@@ -2,10 +2,10 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Conheça mais sobre Vitória! </h1>
-<p align = "justify"> Graduanda do segundo semestre de SI, procurando uma área de interesse.</p>
+<p align = "justify"> Graduanda do terceiro semestre de SI, procurando uma área de interesse.</p>
 
 
-No momento estou aprendendo **C e Python**
+No momento estou aprendendo **C++, Java e Python**
 
 
 [![Instagram Badge](https://img.shields.io/badge/-v_franceline-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/v_franceline/?hl=pt-br)](https://instagram.com/v_franceline)
